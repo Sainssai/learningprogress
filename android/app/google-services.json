@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053454951256",
+    "project_id": "learningprogress-307a5",
+    "storage_bucket": "learningprogress-307a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053454951256:android:9db224be66eeb0fee3bb2d",
+        "android_client_info": {
+          "package_name": "com.example.learningprogress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9fH6bqEmwSDSUBDJx_REmyxOIoI14GZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
